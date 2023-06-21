@@ -1,0 +1,2 @@
+# password_generator
+產生一串10碼包含數字和英文大小寫的密碼
